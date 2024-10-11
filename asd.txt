@@ -1,0 +1,15 @@
+
+
+
+    -> git checkout test (move on test branch)
+    -> git push origin --delete test (delete test branch)
+    -> git branch -a (to check all branch )
+    ->git branch -d test(degit branch -d telete test branch)
+    ->git remote remove origin  (delete origin which is already exist )
+    -> git remote rm origin (To delete origin)
+    -> git branch test (to create new branch)
+
+
+
+
+   
